@@ -1,3 +1,6 @@
 VoIP client and server to use while playing minecraft.
 
 Currently, the server is being developed.
+
+Uses the kryonet library.
+http://code.google.com/p/kryonet/
